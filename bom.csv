@@ -1,4 +1,5 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","Holding the components",1,10.00,"https://jlcpcb.com","JLCPCB"
 "Neopixels","showing the battery and timer status",5,4.02,"https://it.aliexpress.com/item/1005007576573654.html?spm=a2g0o.productlist.main.35.16e33202TMRnWP&algo_pvid=ad019a66-bcb2-4d5d-8444-cf9b53454018&pdp_ext_f=%7B%22order%22%3A%2226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007576573654%7C_p_origin_prod%3A","Aliexpress"
 "switches","Deleting times and adding penalities without opening the web page",2,6.22,"https://it.aliexpress.com/item/1005007983672026.html?spm=a2g0o.productlist.main.3.738333eaUvTj1E&algo_pvid=b23443c5-b622-41a1-9ff9-79a0bdc89d61&pdp_ext_f=%7B%22order%22%3A%22160%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007983672026%7C_p_origin_prod%3A","Aliexpress"
 "505060 200mAh battery","powering the circuit off the grid",1,11.26,"https://www.aliexpress.com/item/1005009145417769.html?spm=a2g0o.cart.0.0.685518fcIZnX3J&mp=1","Aliexpress"
